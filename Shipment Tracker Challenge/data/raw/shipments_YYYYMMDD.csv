@@ -1,0 +1,16 @@
+shipment_id,carrier_name,pickup_city,pickup_state,delivery_city,delivery_state,scheduled_delivery,actual_delivery
+S001,Fast Trucking,Chicago,IL,Detroit,MI,2024-01-15 14:00:00,2024-01-15 15:30:00
+S002,Midwest Express,Chicago,IL,St. Louis,MO,2024-01-15 09:00:00,
+S003,FAST TRUCKING,chicago,il,DETROIT,michigan,2024-01-15 16:00,2024-01-15 15:45
+S004,Midwest Express,Indianapolis,IN,Columbus,OH,2024-01-15 11:30:00,2024-01-15 11:45:00
+S005,fast trucking,CHICAGO,IL,Detroit,MI,2024-01-15 13:00:00,2024-01-15 13:10:00
+S006,Great Lakes Logistics,Milwaukee,WI,Minneapolis,MN,2024-01-15 08:00:00,2024-01-15 08:55:00
+S007,Great Lakes Logistics ,Milwaukee,WI,Minneapolis,MN,2024-01-15 15:00:00,
+S008,Midwest Express,Indianapolis,IN,Cincinnati,OH,2024-01-15 10:00:00,2024-01-15 12:30:00
+S009,FAST TRUCKING LLC,Chicago,IL,Detroit,MI,2024-01-15 17:00:00,2024-01-15 18:00:00
+S010,great lakes logistics,milwaukee,wi,minneapolis,mn,2024-01-15 14:00:00,2024-01-15 14:20:00
+S011,RoadRunner Express,St. Louis,MO,Kansas City,MO,2024-01-15 09:30:00,2024-01-15 09:15:00
+S012,Midwest Express,Chicago,IL,St. Louis,MO,2024-01-15 12:00:00,2024-01-15 14:45:00
+S013,RoadRunner Express,Kansas City,MO,Omaha,NE,2024-01-15 16:00:00,
+S014,FAST TRUCKING,Chicago,IL,Detroit,MI,2024-01-15 10:00:00,2024-01-15 10:05:00
+S015,Unknown Carrier,Detroit,MI,Cleveland,OH,2024-01-15 13:00:00,2024-01-15 12:30:00
